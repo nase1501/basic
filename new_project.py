@@ -36,3 +36,4 @@ table.align = "l"
 print(table)
 
 # 추가사항
+print(table)
